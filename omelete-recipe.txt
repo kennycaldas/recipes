@@ -1,0 +1,10 @@
+Ingredients:
+ - 2 eggs
+ - ham
+ - cheese
+ - butter
+
+Directions:
+ 1. Grease a pan with butter.
+ 2. put the eggs.
+ 3. add the cheese and the ham.
